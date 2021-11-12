@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "CoCo Fresh Tea",
+        "category": "Juice and smoothies",
+        "DeliveryFee": 2.99,
+        "rating": 4.9,
+        "imageUrl": "images/coco.jpg"
+    },
+    {
+        "id": 2,
+        "name": "J:unique Kitchen",
+        "category": "Japanese",
+        "DeliveryFee": 1.99,
+        "rating": 4.7,
+        "imageUrl": "images/junique.jpg"
+    },
+    {
+        "id": 3,
+        "name": "The Captain's Boil",
+        "category": "Seafood",
+        "DeliveryFee": 1.99,
+        "rating":4.5,
+        "imageUrl": "images/captain_boil.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Yunshang Rice Noodle",
+        "category": "Chinese",
+        "DeliveryFee": 1.99,
+        "rating": 4.7,
+        "imageUrl": "images/yunshang.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Popeyes",
+        "category": "Fast food",
+        "DeliveryFee": 2.99,
+        "rating": 4.5,
+        "imageUrl": "images/popeyes.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sansotei Ranmen",
+        "category": "Japanese",
+        "DeliveryFee": 1.99,
+        "rating": 4.8,
+        "imageUrl": "images/sansotei.jpg"
+    }
+]
